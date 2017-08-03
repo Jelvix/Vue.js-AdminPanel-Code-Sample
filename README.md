@@ -1,10 +1,23 @@
-INSTALLATION
-------------
+# FIFA ADMIN PANEL VUE.JS
 
-Install command:
+This project was created in order to show programming skills of JavaScript developers from Jelvix.
+
+## TASK:
+Using Vue.js (https://vuejs.org) and Vuex (https://vuex.vuejs.org) we had to create an Admin Panel
+ for FIFA players witch provides functionality to create and manage tournaments, football clubs, 
+ matches, and users.
+ 
+### Install dependencies:
 `$ yarn install`
 
-Command list: 
+### Start development mode:
+`$ yarn start`
 
-      $ yarn run dev           start dev server (default port 4000, api port)
-      $ yarn run build         build prod (target path './dist')
+### Staging build: 
+`$ yarn build:stage`
+
+### Production build:
+`$ yarn build:prod` 
+
+
+### Note: FOR CODE DEMONSTRATION ONLY.
